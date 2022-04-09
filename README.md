@@ -1,2 +1,1 @@
-# aimtraining
-banzi aimtrainingi javascriptze saurnolisgan
+# banzi aimtrainingi javascriptze saurnolisgan
